@@ -5,5 +5,7 @@ In this tutorial, I will discuss ensemble learning with a focus on a type of ens
 * Boosting
 * Stacking
 
-#Application
-Dataset: 
+# Application
+* Dataset: 
+
+# References
